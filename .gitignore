@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# WebStorm
+.idea/
+
+# .env
+.env
+
+# DS Store
+.DS_Store

@@ -1,0 +1,20 @@
+{
+  "name": "acm-bot",
+  "version": "1.0.0",
+  "description": "A custom discord bot made for ACM, BITS Pilani Chapter",
+  "license": "ISC",
+  "author": "AtharvAgarwal20",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  }
+}
